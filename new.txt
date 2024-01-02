@@ -1,1 +1,3 @@
 hi im on master branch 
+
+Fixed merge
